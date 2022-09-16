@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33d56f0fbe1acab5e89a",
-    "url": "/css/app.4315a468.css"
+    "revision": "52925c2875debdf198e1",
+    "url": "/css/app.18b7bc6c.css"
   },
   {
     "revision": "322a2ad229e21c94260a",
@@ -16,6 +16,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MontserratLight.100b38fa.ttf"
   },
   {
+    "revision": "2b4a206bd1b84a6ba751ad7c231d2041",
+    "url": "/img/fon.2b4a206b.png"
+  },
+  {
     "revision": "f7d1f1bea2123843fb16cd411571e5b5",
     "url": "/img/logoPerson.f7d1f1be.png"
   },
@@ -24,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logoor4.c1521708.png"
   },
   {
-    "revision": "c31af99fc2f0792d7e7ea7eeb754bd1b",
+    "revision": "416a2906980c20988bd642ffdc63fdbd",
     "url": "/index.html"
   },
   {
@@ -32,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.b2f9a6d9.js"
   },
   {
-    "revision": "33d56f0fbe1acab5e89a",
-    "url": "/js/app.27318f8e.js"
+    "revision": "52925c2875debdf198e1",
+    "url": "/js/app.56232f9d.js"
   },
   {
     "revision": "322a2ad229e21c94260a",
