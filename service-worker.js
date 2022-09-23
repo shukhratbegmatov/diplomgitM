@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d7dfb69d76140db7d9f6f3043c2c19a2.js"
+  "/precache-manifest.870a4899b0ca981504d0694210968673.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "diplommanagers"});
