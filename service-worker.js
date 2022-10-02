@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cd4925c888c47427db3f6d77e108225e.js"
+  "/precache-manifest.71ef42edf293903badc0822bc4c9054f.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "diplommanagers"});
+workbox.core.setCacheNameDetails({prefix: "diplomget"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
